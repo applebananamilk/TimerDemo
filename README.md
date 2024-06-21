@@ -1,4 +1,6 @@
 ﻿## 异步Timer示例
+ 
+> 当前实现是分开的
 
 ```csharp
 internal class Program
